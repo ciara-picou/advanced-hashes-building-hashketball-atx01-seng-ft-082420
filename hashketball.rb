@@ -15,9 +15,9 @@ def game_hash
                   steals: 3, 
                   blocks: 1, 
                   slam_dunks: 1
-                 },
+                },
                    
-                 {
+                {
                   player_name: "Jeff Adrien",
                   number: 4, 
                   shoe: 18,
@@ -27,7 +27,6 @@ def game_hash
                   steals: 2, 
                   blocks: 7, 
                   slam_dunks: 2
-                  
                 }, 
       
                    
