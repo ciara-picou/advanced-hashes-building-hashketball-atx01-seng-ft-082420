@@ -18,7 +18,7 @@ def game_hash
                 },
                    
                 {
-                  player_name: "Jeff Adrien",
+                  player_name: "Reggie Evans",
                   number: 4, 
                   shoe: 18,
                   points: 10, 
